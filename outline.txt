@@ -1,0 +1,14 @@
+PERN Authentication System:
+PERN (postgresql, express, react, nodejs);
+
+TechStack: 
+Backend - NodeJS + Express framework,
+Postgres for database,
+Express validator for form validation,
+passport & passport jwt for creating strategy.
+JWT for communication between client and server,
+cors for communication between server and client,
+dotenv for environment variables,
+
+WorkFlow for the video:
+0. Initialize project
